@@ -49,16 +49,6 @@ The topology has **7 routers**, **8 switches**, **14 PCs**, **7 printers**, and 
 - **DNS and HTTP:** Central DNS at `11.10.0.2`, with web servers at SS and FVC.
 - **Email:** A local mail server in each unit, with reported two-way tests between `sheriff.rs` and `flo.rs`.
 
-## Team
-
-Names and IDs follow the uploaded report.
-
-| Member | Student ID |
-| --- | --- |
-| Ahmad Al Jaber | 22201110 |
-| Sawda Nawar Pink | 22201668 |
-| Masudur Sadik Rifat | 22201145 |
-| Mahir Muntasir Rafsan | 22201104 |
 
 ## Verification status
 
