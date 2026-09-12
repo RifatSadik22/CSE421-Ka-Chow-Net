@@ -8,7 +8,7 @@ This repository contains the Cisco Packet Tracer project file for **Ka Chow Net*
 
 ## Contents
 
-* `CSE421-Ka-Chow-Net.pkt` — Cisco Packet Tracer project file
+* `Group1808_Ka-Chow_Net.pkt` — Cisco Packet Tracer project file
 * `README.md` — Project documentation
 
 ## Tools Used
